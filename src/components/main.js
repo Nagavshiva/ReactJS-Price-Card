@@ -56,10 +56,10 @@ const PriceCart=()=>{
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>50GB Storage</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Unlimited Public Projects</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Community Access</li>
-                            <li ><span class="fa-li"><i class="fas fa-times"></i></span>Unlimited Private Projects</li>
-                            <li><span class="fa-li"><i class="fas fa-times"></i></span>Dedicated Phone Support</li>
-                            <li><span class="fa-li"><i class="fas fa-times"></i></span>Free Subdomain</li>
-                            <li ><span class="fa-li"><i class="fas fa-times"></i></span>Monthly Status Reports</li>
+                            <li ><span class="fa-li"><i class="fas fa-check"></i></span>Unlimited Private Projects</li>
+                            <li><span class="fa-li"><i class="fas fa-check"></i></span>Dedicated Phone Support</li>
+                            <li><span class="fa-li"><i class="fas fa-check"></i></span>Free Subdomain</li>
+                            <li ><span class="fa-li"><i class="fas fa-check"></i></span>Monthly Status Reports</li>
                                 <li class="text-muted"><span class="fa-li"><i class="fas fa-times"></i></span>Monthly Status Reports</li>
                             </ul>
                             <div class="d-grid">
@@ -86,11 +86,11 @@ const PriceCart=()=>{
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>150GB Storage</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Unlimited Public Projects</li>
                             <li><span class="fa-li"><i class="fas fa-check"></i></span>Community Access</li>
-                            <li ><span class="fa-li"><i class="fas fa-times"></i></span>Unlimited Private Projects</li>
-                            <li><span class="fa-li"><i class="fas fa-times"></i></span>Dedicated Phone Support</li>
-                            <li><span class="fa-li"><i class="fas fa-times"></i></span><strong>Unlimited</strong>Free Subdomain</li>
-                            <li><span class="fa-li"><i class="fas fa-times"></i></span>Monthly Status Reports</li>
-                                <li><span class="fa-li"><i class="fas fa-times"></i></span>Monthly Status Reports</li>
+                            <li ><span class="fa-li"><i class="fas fa-check"></i></span>Unlimited Private Projects</li>
+                            <li><span class="fa-li"><i class="fas fa-check"></i></span>Dedicated Phone Support</li>
+                            <li><span class="fa-li"><i class="fas fa-check"></i></span><strong>Unlimited</strong>Free Subdomain</li>
+                            <li><span class="fa-li"><i class="fas fa-check"></i></span>Monthly Status Reports</li>
+                                <li><span class="fa-li"><i class="fas fa-check"></i></span>Monthly Status Reports</li>
                             </ul>
                             <div class="d-grid">
                             <aa href="#" className="btn btn-primary text-uppercase">Button</aa>
