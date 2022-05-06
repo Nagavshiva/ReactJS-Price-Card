@@ -70,5 +70,22 @@ section.pricing {
       transition: 0.1s;
      }
   }
+
+  @media only screen and (max-width: 600px){
+    /*Big smartphones [426px -> 600px]*/
+    .btn:hover {
+      background-position: 75% 50%;
+      transform: perspective(100px)
+     }
+
+  }
+  @media only screen and (max-width: 425px){
+    /*Small smartphones [325px -> 425px]*/
+    .btn:hover {
+      background-position: 75% 50%;
+      transform: perspective(100px)
+     }
+
+  }
  
  
